@@ -20,6 +20,3 @@ Accepted to 2024 ACM/IEEE International Conference on Computer-Aided Design (ICC
 
 * __A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes__ <br>
 Mengyu Zhang^, __Xiangyu Ren^__, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fuming Liu, Hualiang Zhang, Shengyu Zhang, Yi-Cong Zheng. <br>
-
-
-{% include base_path %}
