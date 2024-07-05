@@ -21,7 +21,7 @@ repository               : "https://github.com/xiyurain/xiyurain.github.io/tree/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.JPG"
+  avatar           : "./avatar.JPG"
   name             : "Xiangyu Ren"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science"
