@@ -32,8 +32,9 @@ Mengyu Zhang^, <u>Xiangyu Ren^</u>, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fu
 <br>
 
 # Service
-* Reviewer: IEEE International Conference on Quantum Computing and Engineering (QCE'24)
-* Reviewer: International Workshop on Quantum Classical Cooperative Computing (QCCC-24), <br> held in conjunction with the The 38th ACM International Conference on Supercomputing (ICS24’)
+### Conference Paper Reviewer
+* IEEE International Conference on Quantum Computing and Engineering (QCE'24)
+* International Workshop on Quantum Classical Cooperative Computing (QCCC-24), <br> held in conjunction with the The 38th ACM International Conference on Supercomputing (ICS24’)
 
 <br>
 
