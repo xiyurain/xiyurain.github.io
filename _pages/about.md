@@ -15,14 +15,14 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 
 # Publications
 ### 2024
-* __[DAC'24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
+* __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
 <u>Xiangyu Ren</u>, Tianyu Zhang, Xiong Xu, Yi-Cong Zheng, Shengyu Zhang. <br>
 The 61st IEEE/ACM Design Automation Conference (DAC 2024). <br>
 [[pdf]](../files/DAC24_Tencent.pdf)
 
-* __[ICCAD'24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting.__ <br>
+* __[ICCAD '24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting.__ <br>
 <u>Xiangyu Ren</u>, Mengyu Zhang, Antonio Barbalace. <br>
-The 2024 ACM/IEEE International Conference on Computer-Aided Design (ICCAD 2024). <br>
+The 2024 IEEE/ACM International Conference on Computer-Aided Design (ICCAD '24). <br>
 [[pdf]](../files/ICCAD24_Circuit_Knitting___Camera_Ready.pdf)
 
 ### 2023
