@@ -23,7 +23,7 @@ The 61st IEEE/ACM Design Automation Conference (DAC 2024). <br>
 * __[ICCAD '24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting.__ <br>
 <u>Xiangyu Ren</u>, Mengyu Zhang, Antonio Barbalace. <br>
 The 2024 IEEE/ACM International Conference on Computer-Aided Design (ICCAD '24). <br>
-[[pdf]](../files/ICCAD24_Circuit_Knitting___Camera_Ready.pdf)
+[[arxiv]](https://arxiv.org/abs/2409.03870)
 
 ### 2023
 * __A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes__ <br>
