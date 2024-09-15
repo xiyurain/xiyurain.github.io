@@ -33,14 +33,15 @@ Mengyu Zhang^, <u>Xiangyu Ren^</u>, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fu
 <br>
 
 # Service
+* __Program Committee.__ Quantum Computing Applications and Systems Workshop, <br> co-located with the 43rd ACM/IEEE International Conference on Computer-Aided Design (ICCAD '24)
+* __Organizing Committee.__ Special session at the 2025 IEEE International Symposium on Circuits and Systems (ISCAS '25), <br> "Bridging Quantum Technology to the Industry Needs."
 ### Conference Paper Reviewer
-* IEEE International Conference on Quantum Computing and Engineering (QCE'24)
-* International Workshop on Quantum Classical Cooperative Computing (QCCC-24), <br> held in conjunction with the The 38th ACM International Conference on Supercomputing (ICS24’)
+* IEEE International Conference on Quantum Computing and Engineering (QCE '24)
+* International Workshop on Quantum Classical Cooperative Computing, <br> held in conjunction with the The 38th ACM International Conference on Supercomputing (ICS '24)
 
 <br>
 
 # Teaching
-* Bachelor Thesis Supervision. "A Block-Level Pulse Optimization for Quantum Circuit.", Mason Wan, University of Edinburgh, 2024.
 * Teaching Assistant: Computer Architecture and Design, Fall 2024, University of Edinburgh.
 * Teaching Assistant: Operating Systems, Winter 2023, University of Edinburgh.
 * Teaching Assistant: Computer Architecture and Design, Fall 2023, University of Edinburgh.
