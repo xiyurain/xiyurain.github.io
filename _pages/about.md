@@ -25,6 +25,10 @@ The 61st IEEE/ACM Design Automation Conference (DAC 2024). <br>
 The 2024 IEEE/ACM International Conference on Computer-Aided Design (ICCAD '24). <br>
 [[arxiv]](https://arxiv.org/abs/2409.03870)
 
+* __Tackling Coherent Noise in Quantum Computing via Cross-Layer Compiler Optimization__ <br>
+<u>Xiangyu Ren</u>, Junjie Wan, Zhiding Liang, Antonio Barbalace. <br>
+[[arxiv]](https://arxiv.org/abs/2410.09664)
+
 ### 2023
 * __A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes__ <br>
 Mengyu Zhang^, <u>Xiangyu Ren^</u>, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fuming Liu, Hualiang Zhang, Shengyu Zhang, Yi-Cong Zheng. <br>
