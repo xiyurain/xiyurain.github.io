@@ -17,7 +17,7 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 ### 2024
 * __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
 <u>Xiangyu Ren</u>, Tianyu Zhang, Xiong Xu, Yi-Cong Zheng, Shengyu Zhang. <br>
-The 61st IEEE/ACM Design Automation Conference (DAC 2024). <br>
+The 61st IEEE/ACM Design Automation Conference (DAC '24). <br>
 [[pdf]](../files/DAC24_Tencent.pdf)  [[link]](https://dl.acm.org/doi/10.1145/3649329.3663510)
 
 * __[ICCAD '24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting.__ <br>
@@ -25,6 +25,13 @@ The 61st IEEE/ACM Design Automation Conference (DAC 2024). <br>
 The 2024 IEEE/ACM International Conference on Computer-Aided Design (ICCAD '24). <br>
 [[arxiv]](https://arxiv.org/abs/2409.03870)
 
+* __Tackling Coherent Noise in Quantum Computing via Cross-Layer Compiler Optimization__ <br>
+Xiangyu Ren, Junjie Wan, Zhiding Liang, Antonio Barbalace <br>
+[[arxiv]](https://arxiv.org/abs/2410.09664)
+
+* __Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network__ <br>
+Yuexun Huang, Xiangyu Ren, Bikun Li, Yat Wong, Liang Jiang <br>
+[[arxiv]](https://arxiv.org/abs/2412.14757)
 
 ### 2023
 * __A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes__ <br>
@@ -37,6 +44,7 @@ Mengyu Zhang^, <u>Xiangyu Ren^</u>, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fu
 * __Program Committee.__ Quantum Computing Applications and Systems Workshop, <br> co-located with the 43rd ACM/IEEE International Conference on Computer-Aided Design (ICCAD '24)
 * __Organizing Committee.__ Special session at the 2025 IEEE International Symposium on Circuits and Systems (ISCAS '25), <br> "Bridging Quantum Technology to the Industry Needs."
 ### Conference Paper Reviewer
+* The 62nd IEEE/ACM Design Automation Conference (DAC '25).
 * IEEE International Conference on Quantum Computing and Engineering (QCE '24)
 * International Workshop on Quantum Classical Cooperative Computing, <br> held in conjunction with the The 38th ACM International Conference on Supercomputing (ICS '24)
 
