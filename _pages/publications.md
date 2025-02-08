@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
 ### 2025
 * __[DAC '25] A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State.__ <br>
 <u>Xiangyu Ren</u>, Yuexun Huang, Zhiding Liang, Antonio Barbalace. <br>
