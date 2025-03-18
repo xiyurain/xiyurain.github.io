@@ -19,6 +19,11 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 <u>Xiangyu Ren</u>, Yuexun Huang, Zhiding Liang, Antonio Barbalace. <br>
 The 62nd ACM/IEEE Design Automation Conference (_DAC '25_). <br>
 
+* __[SIGMETRICS '25] Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network__ <br>
+Yuexun Huang, <u>Xiangyu Ren</u>, Bikun Li, Yat Wong, Zhiding Liang, Liang Jiang. <br>
+ACM SIGMETRICS 2025. <br>
+[[arxiv]](https://arxiv.org/abs/2412.14757) <br>
+
 ### 2024
 * __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
 <u>Xiangyu Ren</u>, Tianyu Zhang, Xiong Xu, Yi-Cong Zheng, Shengyu Zhang. <br>
@@ -31,12 +36,8 @@ The 2024 IEEE/ACM International Conference on Computer-Aided Design (_ICCAD '24_
 [[arxiv]](https://arxiv.org/abs/2409.03870)
 
 * __Tackling Coherent Noise in Quantum Computing via Cross-Layer Compiler Optimization__ <br>
-Xiangyu Ren, Junjie Wan, Zhiding Liang, Antonio Barbalace. <br>
+<u>Xiangyu Ren</u>, Junjie Wan, Zhiding Liang, Antonio Barbalace. <br>
 [[arxiv]](https://arxiv.org/abs/2410.09664)
-
-* __Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network__ <br>
-Yuexun Huang, Xiangyu Ren, Bikun Li, Yat Wong, Liang Jiang. <br>
-[[arxiv]](https://arxiv.org/abs/2412.14757)
 
 ### 2023
 * __A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes__ <br>
