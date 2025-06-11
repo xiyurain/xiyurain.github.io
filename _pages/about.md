@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D. Candidate from [Institute for Computer System Architecture](https://web.inf.ed.ac.uk/icsa) of [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/). My research interest includes quantum computing architecture, quantum EDA and fault-tolerant quantum computing.
+I'm a third year Ph.D. Candidate from [Institute for Computer System Architecture](https://web.inf.ed.ac.uk/icsa) of [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/). My research interest includes quantum computing architecture, quantum EDA and fault-tolerant quantum computing.
 
 I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbalace.it/antonio/) and [Dr. Raul Garcia-Patron](https://scholar.google.com/citations?user=EmnabekAAAAJ&hl=en) from the University of Edinburgh. Prior to this, I worked with [Dr. Shengyu Zhang](http://www.cse.cuhk.edu.hk/~syzhang/) and [Dr. Yi-Cong Zheng](https://scholar.google.com/citations?user=6Eo-JGEAAAAJ&hl=en) as a research intern at the Tencent Quantum Lab.
 
@@ -51,9 +51,11 @@ Mengyu Zhang^, <u>Xiangyu Ren^</u>, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fu
 * __Organizing Committee.__ Special session at the 2025 IEEE International Symposium on Circuits and Systems (ISCAS '25), <br> "Bridging Quantum Technology to the Industry Needs."
 ### Conference Paper Reviewer
 * International Conference on Machine Learning (ICML 2025)
-* The ACM/IEEE Design Automation Conference (DAC '25)
-* IEEE International Conference on Quantum Computing and Engineering (QCE '24)
-* International Workshop on Quantum Classical Cooperative Computing, <br> held in conjunction with the The 38th ACM International Conference on Supercomputing (ICS '24)
+* Physical Review A (PRA)
+* ACM Transactions on Quantum Computing (TQC)
+* ACM/IEEE Design Automation Conference (DAC)
+* IEEE International Conference on Quantum Computing and Engineering (QCE)
+* IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
 
 <br>
 
