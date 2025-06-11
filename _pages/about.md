@@ -23,7 +23,7 @@ The 62nd ACM/IEEE Design Automation Conference (_DAC '25_). <br>
 * __[SIGMETRICS '25] Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network__ <br>
 Yuexun Huang, <u>Xiangyu Ren</u>, Bikun Li, Yat Wong, Zhiding Liang, Liang Jiang. <br>
 ACM SIGMETRICS 2025. <br>
-[[arxiv]](https://arxiv.org/abs/2412.14757) <br> [[link]](https://dl.acm.org/doi/abs/10.1145/3727123)
+[[arxiv]](https://arxiv.org/abs/2412.14757) [[link]](https://dl.acm.org/doi/abs/10.1145/3727123)<br> 
 
 ### 2024
 * __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
