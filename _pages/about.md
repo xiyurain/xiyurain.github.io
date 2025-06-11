@@ -18,11 +18,12 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 * __[DAC '25] A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State.__ <br>
 <u>Xiangyu Ren</u>, Yuexun Huang, Zhiding Liang, Antonio Barbalace. <br>
 The 62nd ACM/IEEE Design Automation Conference (_DAC '25_). <br>
+[[arxiv]](https://arxiv.org/pdf/2503.16346)
 
 * __[SIGMETRICS '25] Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network__ <br>
 Yuexun Huang, <u>Xiangyu Ren</u>, Bikun Li, Yat Wong, Zhiding Liang, Liang Jiang. <br>
 ACM SIGMETRICS 2025. <br>
-[[arxiv]](https://arxiv.org/abs/2412.14757) <br>
+[[arxiv]](https://arxiv.org/abs/2412.14757) <br> [[link]](https://dl.acm.org/doi/abs/10.1145/3727123)
 
 ### 2024
 * __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
@@ -33,7 +34,7 @@ The 61st ACM/IEEE Design Automation Conference (_DAC '24_). <br>
 * __[ICCAD '24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting.__ <br>
 <u>Xiangyu Ren</u>, Mengyu Zhang, Antonio Barbalace. <br>
 The 2024 IEEE/ACM International Conference on Computer-Aided Design (_ICCAD '24_). <br>
-[[arxiv]](https://arxiv.org/abs/2409.03870)
+[[arxiv]](https://arxiv.org/abs/2409.03870) [[link]](https://dl.acm.org/doi/abs/10.1145/3676536.3676719)
 
 * __Tackling Coherent Noise in Quantum Computing via Cross-Layer Compiler Optimization__ <br>
 <u>Xiangyu Ren</u>, Junjie Wan, Zhiding Liang, Antonio Barbalace. <br>
