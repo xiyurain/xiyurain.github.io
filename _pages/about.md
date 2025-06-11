@@ -51,7 +51,7 @@ Mengyu Zhang^, <u>Xiangyu Ren^</u>, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fu
 * __Program Committee.__ Quantum Computing Applications and Systems Workshop, <br> co-located with the 43rd ACM/IEEE International Conference on Computer-Aided Design (ICCAD '24)
 * __Organizing Committee.__ Special session at the 2025 IEEE International Symposium on Circuits and Systems (ISCAS '25), <br> "Bridging Quantum Technology to the Industry Needs."
 ### Conference Paper Reviewer
-* International Conference on Machine Learning (ICML 2025)
+* International Conference on Machine Learning (ICML)
 * Physical Review A (PRA)
 * ACM Transactions on Quantum Computing (TQC)
 * ACM/IEEE Design Automation Conference (DAC)
