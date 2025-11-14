@@ -15,6 +15,9 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 
 # Publications
 ### 2025
+* __A Spatial-Topology Preserving, Multi-Target Supported Compiler for Quantum Many-Body Simulation__ <br>
+<u>Xiangyu Ren</u>, Yuexun Huang, Yuexun Huang, Zhaohui Yang, Tsung-Yi Ho, Tsung-Wei Huang, Zhiding Liang, Antonio Barbalace
+
 * __[DAC '25] A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State.__ <br>
 <u>Xiangyu Ren</u>, Yuexun Huang, Zhiding Liang, Antonio Barbalace. <br>
 The 62nd ACM/IEEE Design Automation Conference (_DAC '25_). <br>
@@ -23,7 +26,11 @@ The 62nd ACM/IEEE Design Automation Conference (_DAC '25_). <br>
 * __[SIGMETRICS '25] Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network__ <br>
 Yuexun Huang, <u>Xiangyu Ren</u>, Bikun Li, Yat Wong, Zhiding Liang, Liang Jiang. <br>
 ACM SIGMETRICS 2025. <br>
-[[arxiv]](https://arxiv.org/abs/2412.14757) [[link]](https://dl.acm.org/doi/abs/10.1145/3727123)<br> 
+[[arxiv]](https://arxiv.org/abs/2412.14757) [[link]](https://dl.acm.org/doi/abs/10.1145/3727123)<br>
+
+* __Qubit Mapping and Routing tailored to Advanced Quantum ISAs: Not as Costly as You Think__ <br>
+Zhaohui Yang, Kai Zhang, Xinyang Tian, <u>Xiangyu Ren</u>, Yingjian Liu, Yunfeng Li, Jianxin Chen, Dawei Ding, Yuanx Xie.  <br>
+[[arxiv]](https://arxiv.org/abs/2511.04608)
 
 ### 2024
 * __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
