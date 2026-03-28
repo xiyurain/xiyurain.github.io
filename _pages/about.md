@@ -14,11 +14,18 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 <br>
 
 # Publications
-### 2025
-* __A Spatial-Topology Preserving, Multi-Target Supported Compiler for Quantum Many-Body Simulation__ <br>
-<u>Xiangyu Ren</u>, Yuexun Huang, Yuexun Huang, Zhaohui Yang, Tsung-Yi Ho, Tsung-Wei Huang, Zhiding Liang, Antonio Barbalace
+### 2026
+* __[ISCA '26] Efficient Qubit Routing for Diverse Quantum ISAs via Canonical Representation__ <br>
+Zhaohui Yang, Kai Zhang, Xinyang Tian, <u>Xiangyu Ren</u>, Yingjian Liu, Yunfeng Li, Dawei Ding, Jianxin Chen, Yuan Xie. <br>
+The 53rd Annual International Symposium on Computer Architecture (_ISCA '26_). <br>
+[[arxiv]](https://arxiv.org/abs/2511.04608v3)
 
-* __[DAC '25] A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State.__ <br>
+* __[DAC '26] Compiler Framework for Directional Transport in Zoned Neutral-Atom Systems with AOD Assistance: A Hybrid Remote CZ Approach__ <br>
+Lingyi Kong, Chen Huang, Zhemin Zhang, Yidong Zhou, <u>Xiangyu Ren</u>, Shaochen Li and Zhiding Liang. <br>
+The 63nd ACM/IEEE Design Automation Conference (_DAC '26_). <br>
+
+### 2025
+* __[DAC '25] A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State__ <br>
 <u>Xiangyu Ren</u>, Yuexun Huang, Zhiding Liang, Antonio Barbalace. <br>
 The 62nd ACM/IEEE Design Automation Conference (_DAC '25_). <br>
 [[arxiv]](https://arxiv.org/pdf/2503.16346)
@@ -33,12 +40,12 @@ Zhaohui Yang, Kai Zhang, Xinyang Tian, <u>Xiangyu Ren</u>, Yingjian Liu, Yunfeng
 [[arxiv]](https://arxiv.org/abs/2511.04608)
 
 ### 2024
-* __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization.__ <br>
+* __[DAC '24] Leveraging Machine Learning for Quantum Compilation Optimization__ <br>
 <u>Xiangyu Ren</u>, Tianyu Zhang, Xiong Xu, Yi-Cong Zheng, Shengyu Zhang. <br>
 The 61st ACM/IEEE Design Automation Conference (_DAC '24_). <br>
 [[pdf]](../files/DAC24_Tencent.pdf)  [[link]](https://dl.acm.org/doi/10.1145/3649329.3663510)
 
-* __[ICCAD '24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting.__ <br>
+* __[ICCAD '24] A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting__ <br>
 <u>Xiangyu Ren</u>, Mengyu Zhang, Antonio Barbalace. <br>
 The 2024 IEEE/ACM International Conference on Computer-Aided Design (_ICCAD '24_). <br>
 [[arxiv]](https://arxiv.org/abs/2409.03870) [[link]](https://dl.acm.org/doi/abs/10.1145/3676536.3676719)
