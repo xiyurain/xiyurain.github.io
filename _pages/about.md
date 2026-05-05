@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 # Publications
 ### 2026
 * __[ISCA ’26] Suppressing the Erasure Error of Fusion Operation in Photonic Quantum Computing__ <br>
-Xiangyu Ren, Yuexun Huang, Zhemin Zhang, Yuchen Zhu, Tsung-Yi Ho, Antonio Barbalace, Zhiding Liang. <br>
+<u>Xiangyu Ren</u>, Yuexun Huang, Zhemin Zhang, Yuchen Zhu, Tsung-Yi Ho, Antonio Barbalace, Zhiding Liang. <br>
 The 53rd Annual International Symposium on Computer Architecture (_ISCA ’26_). <br>
 [[arxiv]](https://arxiv.org/abs/2604.21475)
 
