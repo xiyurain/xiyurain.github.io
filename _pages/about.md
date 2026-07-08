@@ -15,6 +15,10 @@ I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbala
 
 # Publications
 ### 2026
+* __[MICRO ’26] A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation__ <br>
+<u>Xiangyu Ren</u>, Yuexun Huang, Zhaohui Yang, Yuchen Zhu, Tsung-Wei Huang, Tsung-Yi Ho, Zhiding Liang, Antonio Barbalace. <br>
+The 59th IEEE/ACM International Symposium on Microarchitecture (_MICRO ’26_). <br>
+
 * __[ISCA ’26] Suppressing the Erasure Error of Fusion Operation in Photonic Quantum Computing__ <br>
 <u>Xiangyu Ren</u>, Yuexun Huang, Zhemin Zhang, Yuchen Zhu, Tsung-Yi Ho, Antonio Barbalace, Zhiding Liang. <br>
 The 53rd Annual International Symposium on Computer Architecture (_ISCA ’26_). <br>
