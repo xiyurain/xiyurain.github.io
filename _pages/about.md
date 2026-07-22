@@ -32,6 +32,16 @@ The 53rd Annual International Symposium on Computer Architecture (_ISCA ’26_).
 * __[DAC ’26] Compiler Framework for Directional Transport in Zoned Neutral-Atom Systems with AOD Assistance: A Hybrid Remote CZ Approach__ <br>
 Lingyi Kong, Chen Huang, Zhemin Zhang, Yidong Zhou, <u>Xiangyu Ren</u>, Shaochen Li and Zhiding Liang. <br>
 The 63nd ACM/IEEE Design Automation Conference (_DAC ’26_). <br>
+[[arxiv]](https://arxiv.org/pdf/2604.11000)
+
+* __[ICCAD ’26] A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness__ <br>
+Ming Zhong, Zhemin Zhang, <u>Xiangyu Ren</u>, Chenghong Zhu, Siyuan Niu, Zhiding Liang. <br>
+The 2026 IEEE/ACM International Conference on Computer-Aided Design (_ICCAD ’26_). <br>
+[[arxiv]](https://arxiv.org/pdf/2511.10921)
+
+* __QuTuner: Feature-and Learning-Guided Optimization Pass Tuning for Quantum Compilers__ <br>
+Ming Zhong, <u>Xiangyu Ren</u>, Jinglei Cheng, Shaohua Li, Zhiding Liang. <br>
+[[arxiv]](https://arxiv.org/pdf/2607.04586)
 
 ### 2025
 * __[DAC ’25] A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State__ <br>
