@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes quantum computing architecture, quantum EDA and fault-tolerant quantum computing. I'm joining the [IDEA Lab](https://tsungyiho.github.io/research-group/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/) as a Postdoctoral Fellow, working with [Prof. Tsung-Yi Ho](https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en). 
+My research interest includes quantum computing architecture, quantum EDA and fault-tolerant quantum computing. I'm joining the [IDEA Lab](https://tsungyiho.github.io/research-group/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/) as a Postdoctoral Fellow, working with [Prof. Tsung-Yi Ho](https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en) and [Prof. Zhiding Liang](https://scholar.google.com/citations?user=bsLRScYAAAAJ&hl=en). 
 
 I've recently obtained my Ph.D. from the [School of Informatics](https://informatics.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/). I am very fortunate to be advised by [Dr. Antonio Barbalace](https://www.barbalace.it/antonio/) and [Dr. Raul Garcia-Patron](https://scholar.google.com/citations?user=EmnabekAAAAJ&hl=en) from the University of Edinburgh. In the meantime, I am co-advised by [Dr. Zhiding Liang](https://scholar.google.com/citations?user=bsLRScYAAAAJ&hl=en) from CUHK. Prior to this, I worked with [Dr. Shengyu Zhang](http://www.cse.cuhk.edu.hk/~syzhang/) and [Dr. Yi-Cong Zheng](https://scholar.google.com/citations?user=6Eo-JGEAAAAJ&hl=en) as a research intern at the Tencent Quantum Lab.
 
